@@ -1,0 +1,34 @@
+-----------------------------------
+			INTRODUCTION
+-----------------------------------
+
+This is a small scenery of a village.  
+
+
+-----------------------------------
+			INSTRUCTION
+-----------------------------------
+
+To start game goto to,Gram/bin/Debug and double click the Gram.exe file.
+
+
+-----------------------------------
+			CONTROLS
+-----------------------------------
+
+KEYBOARD:
+
+Left,Right,Up,Down	-Man/Alien Walk, navigate menus
+C					-Cycle start
+X					-Cycle stop
+B					-Boat start
+N					-Boat stop
+
+MOUSE:
+
+Left				-WindMill Spin left
+Right				-WindMill Spin right
+Wheel				-WindMill Spin stop
+-----------------------------------
+			END
+-----------------------------------
