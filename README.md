@@ -1,5 +1,5 @@
 # Gram
-An animated village scenario
+
 
 <!--- See https://shields.io for others or to customize this set of shields.  --->
 <!--- See https://shields.io for others or to customize this set of shields.  --->
@@ -11,6 +11,8 @@ An animated village scenario
 ![GitHub repo size](https://img.shields.io/github/repo-size/ssabit/Gram?style=flat-square)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ssabit/Gram?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/ssabit/Gram?style=flat-square)
+
+An animated village scenario
 
 ## Built With
 
